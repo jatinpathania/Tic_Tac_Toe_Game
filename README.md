@@ -6,6 +6,10 @@ A classic Tic-Tac-Toe game built with vanilla JavaScript, HTML, and CSS, featuri
 
 This is an interactive two-player Tic-Tac-Toe game that brings the classic game to life with modern web technologies. The game features a captivating starry background that creates a cosmic gaming atmosphere while you enjoy the timeless strategy game.
 
+## 🌐 Live Demo
+
+👉 [Play the game now!](https://tic-tac-toe-game-drab-seven.vercel.app/)
+
 ## ✨ Features
 
 - **Two-Player Gameplay**: Play against a friend locally
