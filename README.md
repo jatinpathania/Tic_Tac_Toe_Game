@@ -39,7 +39,7 @@ This is an interactive two-player Tic-Tac-Toe game that brings the classic game 
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/jatinpathania/Tic_Tac_Toe_Game
    ```
 
 2. Navigate to the project directory:
@@ -69,10 +69,6 @@ tic_tac_toe_game/
 ## 👨‍💻 Author
 
 **Jatin Pathania**
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
